@@ -29,14 +29,14 @@ END OF LOOF
 
 ----------------------------------------------------------------------------------
 
-a = 1
+    a = 1
 
-while a < 50:
+    while a < 50:
 
     print("Python while loop number " + str(a))
     
     a +=1
     
-else:
+    else:
 
     print("END OF LOOP")
